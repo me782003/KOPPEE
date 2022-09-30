@@ -871,9 +871,9 @@ section.about-us {
   transition: outline 0.2s ease;
   color: #555;
 }
-@media (max-width:370px) {
+@media (max-width:378px) {
   .offer .content form input{
-    width: 80%;
+    width: 50%;
   }
 }
 
