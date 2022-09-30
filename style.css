@@ -871,6 +871,11 @@ section.about-us {
   transition: outline 0.2s ease;
   color: #555;
 }
+@media (max-width:370px) {
+  .offer .content form input{
+    width: 80%;
+  }
+}
 
 .offer .content form input:focus {
   outline: 3px solid #c8873d82;
